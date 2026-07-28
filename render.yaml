@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: computer-quiz-bot-7x9k2
+    runtime: python
+    plan: free
+    autoDeployTrigger: commit
+    buildCommand: pip install -r requirements.txt
+    startCommand: python bot.py
+    envVars:
+      - key: BOT_TOKEN
+        sync: false
+      - key: WEBHOOK_PATH
+        value: telegram-webhook
+      - key: WEBHOOK_SECRET
+        generateValue: true
+      - key: PORT
+        value: 10000
+      - key: DATABASE_PATH
+        value: /tmp/quiz_bot.sqlite3

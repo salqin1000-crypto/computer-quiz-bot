@@ -1,0 +1,2186 @@
+[
+  {
+    "id": 1,
+    "category": "basics",
+    "type": "mcq",
+    "question": "تُعدّ الماسحة الضوئية من:",
+    "options": [
+      "وحدات الإدخال",
+      "وحدات الإخراج",
+      "وحدات التخزين",
+      "البرمجيات"
+    ],
+    "correct_index": 0,
+    "explanation": "تُدخل الصور والوثائق إلى الحاسوب.",
+    "source": "حاسوب دورة 25 ص1",
+    "enabled": true
+  },
+  {
+    "id": 2,
+    "category": "basics",
+    "type": "mcq",
+    "question": "محلّل التعليمة يُستخدم من قبل:",
+    "options": [
+      "وحدة الحساب والمنطق",
+      "وحدة المراقبة والتحكم",
+      "وحدة الإخراج",
+      "الذاكرة الثانوية"
+    ],
+    "correct_index": 1,
+    "explanation": "محلل التعليمة من سجلات/أجزاء وحدة التحكم.",
+    "source": "حاسوب دورة 25 ص1",
+    "enabled": true
+  },
+  {
+    "id": 3,
+    "category": "basics",
+    "type": "mcq",
+    "question": "كل 1 GB يساوي:",
+    "options": [
+      "1024 MB",
+      "1024 Byte",
+      "1024 KB",
+      "100 MB"
+    ],
+    "correct_index": 0,
+    "explanation": "وفق وحدات التخزين الثنائية الشائعة: 1 GB = 1024 MB.",
+    "source": "حاسوب دورة 25 ص1",
+    "enabled": true
+  },
+  {
+    "id": 4,
+    "category": "basics",
+    "type": "mcq",
+    "question": "كلما زاد تردد نقل البيانات فإن:",
+    "options": [
+      "يزداد زمن الوصول",
+      "يزداد معدل نقل البيانات",
+      "ينخفض معدل نقل البيانات",
+      "لا يحدث تغيير"
+    ],
+    "correct_index": 1,
+    "explanation": "زيادة التردد ترفع عدد البتات المنقولة في الثانية.",
+    "source": "حاسوب دورة 25 ص2",
+    "enabled": true
+  },
+  {
+    "id": 5,
+    "category": "basics",
+    "type": "mcq",
+    "question": "تُستخدم الحواسيب المهجنة في مجالات مثل:",
+    "options": [
+      "أبحاث الفضاء والاستشعار عن بعد",
+      "الطباعة فقط",
+      "تشغيل الموسيقى فقط",
+      "تحرير النصوص فقط"
+    ],
+    "correct_index": 0,
+    "explanation": "لأنها تجمع خصائص الحواسيب التناظرية والرقمية.",
+    "source": "حاسوب دورة 25 ص2",
+    "enabled": true
+  },
+  {
+    "id": 6,
+    "category": "basics",
+    "type": "mcq",
+    "question": "البرنامج المكتوب بلغة الآلة يسمى:",
+    "options": [
+      "البرنامج المصدري",
+      "البرنامج الهدف",
+      "الخوارزمية",
+      "مخطط التدفق"
+    ],
+    "correct_index": 1,
+    "explanation": "البرنامج الهدف هو الناتج بعد ترجمة البرنامج المصدري إلى لغة الآلة.",
+    "source": "حاسوب دورة 25 ص2",
+    "enabled": true
+  },
+  {
+    "id": 7,
+    "category": "basics",
+    "type": "mcq",
+    "question": "ذاكرة ROM:",
+    "options": [
+      "تفقد محتوياتها عند انقطاع الكهرباء",
+      "لا تفقد محتوياتها عند إطفاء الحاسوب",
+      "يمكن للمستخدم العادي تعديلها دائماً",
+      "هي ذاكرة تخزين ثانوية"
+    ],
+    "correct_index": 1,
+    "explanation": "ROM ذاكرة دائمة للقراءة فقط عادةً.",
+    "source": "حاسوب دورة 25 ص3",
+    "enabled": true
+  },
+  {
+    "id": 8,
+    "category": "basics",
+    "type": "mcq",
+    "question": "أيّ مما يلي من وحدات التخزين الثانوية؟",
+    "options": [
+      "القرص الليزري",
+      "السجلات",
+      "الذاكرة الرئيسية RAM",
+      "المعالج"
+    ],
+    "correct_index": 0,
+    "explanation": "الأقراص الليزرية من وسائط التخزين الثانوية.",
+    "source": "حاسوب دورة 25 ص3",
+    "enabled": true
+  },
+  {
+    "id": 9,
+    "category": "basics",
+    "type": "mcq",
+    "question": "تُستخدم الذاكرة المخبئية Cache أساساً من أجل:",
+    "options": [
+      "تخزين الأوامر والبيانات كثيرة الاستخدام",
+      "عرض الصور",
+      "إدخال النصوص",
+      "طباعة المستندات"
+    ],
+    "correct_index": 0,
+    "explanation": "تقرب البيانات والتعليمات المتكررة من المعالج لتسريع التنفيذ.",
+    "source": "حاسوب دورة 25 ص3",
+    "enabled": true
+  },
+  {
+    "id": 10,
+    "category": "basics",
+    "type": "mcq",
+    "question": "أيّ مما يلي من سجلات وحدة المعالجة المركزية؟",
+    "options": [
+      "عداد البرنامج PC",
+      "الطابعة",
+      "القرص الصلب",
+      "لوحة المفاتيح"
+    ],
+    "correct_index": 0,
+    "explanation": "عداد البرنامج يحتفظ بعنوان التعليمة التالية.",
+    "source": "حاسوب دورة 25 ص4",
+    "enabled": true
+  },
+  {
+    "id": 11,
+    "category": "basics",
+    "type": "mcq",
+    "question": "من أشهر أنواع ذاكرة القراءة والكتابة المؤقتة:",
+    "options": [
+      "RAM",
+      "ROM",
+      "DVD",
+      "Blu-ray"
+    ],
+    "correct_index": 0,
+    "explanation": "RAM ذاكرة رئيسية مؤقتة قابلة للقراءة والكتابة.",
+    "source": "مهارات الحاسوب",
+    "enabled": true
+  },
+  {
+    "id": 12,
+    "category": "basics",
+    "type": "mcq",
+    "question": "أي مكوّن يُعدّ «دماغ الحاسوب»؟",
+    "options": [
+      "المعالج CPU",
+      "الشاشة",
+      "لوحة المفاتيح",
+      "الطابعة"
+    ],
+    "correct_index": 0,
+    "explanation": "ينفذ التعليمات ويشرف على معالجة البيانات.",
+    "source": "حاسوب دورة 25 ص8",
+    "enabled": true
+  },
+  {
+    "id": 13,
+    "category": "basics",
+    "type": "mcq",
+    "question": "تقوم وحدة الحساب والمنطق ALU بتنفيذ:",
+    "options": [
+      "العمليات الحسابية والمنطقية",
+      "تخزين الملفات الدائم",
+      "عرض الصور فقط",
+      "إدارة الطابعة فقط"
+    ],
+    "correct_index": 0,
+    "explanation": "ALU تنفذ الجمع والطرح والمقارنات والعمليات المنطقية.",
+    "source": "مهارات الحاسوب",
+    "enabled": true
+  },
+  {
+    "id": 14,
+    "category": "basics",
+    "type": "mcq",
+    "question": "تتم عملية الضرب داخل وحدة الحساب والمنطق غالباً باستخدام:",
+    "options": [
+      "الجمع والإزاحة",
+      "الطرح فقط",
+      "القسمة فقط",
+      "النسخ واللصق"
+    ],
+    "correct_index": 0,
+    "explanation": "تُبنى عملية الضرب رقمياً من الجمع والإزاحة.",
+    "source": "حاسوب دورة 25 ص6",
+    "enabled": true
+  },
+  {
+    "id": 15,
+    "category": "basics",
+    "type": "mcq",
+    "question": "تتم عملية القسمة داخل وحدة الحساب والمنطق غالباً باستخدام:",
+    "options": [
+      "الطرح والإزاحة",
+      "الجمع فقط",
+      "الضرب فقط",
+      "التنسيق"
+    ],
+    "correct_index": 0,
+    "explanation": "تُبنى القسمة رقمياً من الطرح والإزاحة.",
+    "source": "حاسوب دورة 25 ص6",
+    "enabled": true
+  },
+  {
+    "id": 16,
+    "category": "basics",
+    "type": "mcq",
+    "question": "أيّ مما يلي يُعد من برمجيات النظام المساعدة؟",
+    "options": [
+      "برنامج ضغط الملفات",
+      "محرر النصوص فقط",
+      "عرض تقديمي فقط",
+      "متصفح صور فقط"
+    ],
+    "correct_index": 0,
+    "explanation": "برامج الضغط والأدوات المساعدة من برمجيات النظام.",
+    "source": "حاسوب دورة 25 ص7",
+    "enabled": true
+  },
+  {
+    "id": 17,
+    "category": "basics",
+    "type": "mcq",
+    "question": "تُصنّف الحواسيب حسب حجمها إلى:",
+    "options": [
+      "حواسيب مركزية وحواسيب شخصية",
+      "رقمية وتناظرية فقط",
+      "سلكية ولاسلكية",
+      "داخلية وخارجية"
+    ],
+    "correct_index": 0,
+    "explanation": "من التصنيفات الشائعة حسب الحجم: المركزية والشخصية.",
+    "source": "دورات مدخل إلى الحاسوب ص4",
+    "enabled": true
+  },
+  {
+    "id": 18,
+    "category": "basics",
+    "type": "mcq",
+    "question": "أيّ نظام تشغيل يُعد متعدد المستخدمين ومتعدد المهام؟",
+    "options": [
+      "UNIX",
+      "MS-DOS",
+      "آلة حاسبة",
+      "BIOS"
+    ],
+    "correct_index": 0,
+    "explanation": "UNIX مثال تقليدي على نظام متعدد المستخدمين ومتعدد المهام.",
+    "source": "حاسوب دورة 25 ص8",
+    "enabled": true
+  },
+  {
+    "id": 19,
+    "category": "basics",
+    "type": "mcq",
+    "question": "MS-DOS مثال على نظام تشغيل:",
+    "options": [
+      "مستخدم واحد ومهمة واحدة",
+      "مستخدم واحد ومتعدد المهام",
+      "متعدد المستخدمين ومهمة واحدة",
+      "متعدد المستخدمين ومتعدد المهام"
+    ],
+    "correct_index": 0,
+    "explanation": "يُصنّف عادةً مستخدم واحد ومهمة واحدة.",
+    "source": "حاسوب دورة 25 ص8",
+    "enabled": true
+  },
+  {
+    "id": 20,
+    "category": "basics",
+    "type": "mcq",
+    "question": "BIOS مسؤول عند بدء التشغيل عن:",
+    "options": [
+      "فحص وتشغيل المكونات الأساسية",
+      "إنشاء جداول Excel",
+      "طباعة المستندات",
+      "تحويل الصور إلى فيديو"
+    ],
+    "correct_index": 0,
+    "explanation": "ينفذ اختبارات بدء التشغيل ويهيئ العتاد الأساسي.",
+    "source": "حاسوب دورة 25 ص10",
+    "enabled": true
+  },
+  {
+    "id": 21,
+    "category": "basics",
+    "type": "mcq",
+    "question": "النظام الذي يضم أحرف ورموز معظم لغات العالم هو:",
+    "options": [
+      "Unicode",
+      "ASCII فقط",
+      "EBCDIC فقط",
+      "Binary فقط"
+    ],
+    "correct_index": 0,
+    "explanation": "Unicode صُمم لتمثيل محارف لغات كثيرة.",
+    "source": "حاسوب دورة 25 ص10",
+    "enabled": true
+  },
+  {
+    "id": 22,
+    "category": "basics",
+    "type": "mcq",
+    "question": "ينفّذ الحاسوب دورة التعليمة بالترتيب:",
+    "options": [
+      "استحضار، فك ترميز، تنفيذ، تخزين النتيجة",
+      "تنفيذ، استحضار، طباعة، إيقاف",
+      "فك ترميز، حذف، تخزين، إدخال",
+      "طباعة، نسخ، لصق، حفظ"
+    ],
+    "correct_index": 0,
+    "explanation": "هذا هو التسلسل الأساسي لدورة التعليمة.",
+    "source": "حاسوب دورة 25 ص13",
+    "enabled": true
+  },
+  {
+    "id": 23,
+    "category": "basics",
+    "type": "mcq",
+    "question": "أيّ مما يلي يُعد وحدة إخراج؟",
+    "options": [
+      "الشاشة",
+      "الفأرة",
+      "لوحة المفاتيح",
+      "الماسح الضوئي"
+    ],
+    "correct_index": 0,
+    "explanation": "الشاشة تعرض النتائج للمستخدم.",
+    "source": "مهارات الحاسوب",
+    "enabled": true
+  },
+  {
+    "id": 24,
+    "category": "basics",
+    "type": "mcq",
+    "question": "أيّ مما يلي يُعد وحدة إدخال وإخراج معاً؟",
+    "options": [
+      "شاشة اللمس",
+      "الطابعة",
+      "لوحة المفاتيح",
+      "السماعات"
+    ],
+    "correct_index": 0,
+    "explanation": "تعرض المعلومات وتستقبل اللمس.",
+    "source": "مهارات الحاسوب",
+    "enabled": true
+  },
+  {
+    "id": 25,
+    "category": "basics",
+    "type": "true_false",
+    "question": "ذاكرة RAM تفقد محتوياتها عند انقطاع التيار الكهربائي.",
+    "options": [
+      "صح",
+      "خطأ"
+    ],
+    "correct_index": 0,
+    "explanation": "RAM ذاكرة متطايرة.",
+    "source": "مهارات الحاسوب",
+    "enabled": true
+  },
+  {
+    "id": 26,
+    "category": "basics",
+    "type": "true_false",
+    "question": "يمكن للمستخدم العادي تعديل محتويات ROM بسهولة أثناء الاستخدام العادي.",
+    "options": [
+      "صح",
+      "خطأ"
+    ],
+    "correct_index": 1,
+    "explanation": "ROM مخصصة للقراءة ولا تُعدّل عادةً من المستخدم العادي.",
+    "source": "حاسوب دورة 25 ص3",
+    "enabled": true
+  },
+  {
+    "id": 27,
+    "category": "basics",
+    "type": "true_false",
+    "question": "المعلومة نفسها قد تكون بيانات في موقف ومعلومة مفيدة في موقف آخر.",
+    "options": [
+      "صح",
+      "خطأ"
+    ],
+    "correct_index": 0,
+    "explanation": "القيمة تكتسب معنى بحسب السياق والمستخدم.",
+    "source": "حاسوب دورة 25 ص6",
+    "enabled": true
+  },
+  {
+    "id": 28,
+    "category": "basics",
+    "type": "true_false",
+    "question": "القرص الصلب من وحدات التخزين الثانوية.",
+    "options": [
+      "صح",
+      "خطأ"
+    ],
+    "correct_index": 0,
+    "explanation": "هو وسيط تخزين دائم.",
+    "source": "مهارات الحاسوب",
+    "enabled": true
+  },
+  {
+    "id": 29,
+    "category": "basics",
+    "type": "true_false",
+    "question": "المعالج CPU من وحدات الإدخال.",
+    "options": [
+      "صح",
+      "خطأ"
+    ],
+    "correct_index": 1,
+    "explanation": "المعالج وحدة معالجة، وليس إدخالاً.",
+    "source": "مهارات الحاسوب",
+    "enabled": true
+  },
+  {
+    "id": 30,
+    "category": "number_systems",
+    "type": "mcq",
+    "question": "العدد العشري 30 يساوي في النظام الثنائي:",
+    "options": [
+      "11110",
+      "11001",
+      "11101",
+      "10111"
+    ],
+    "correct_index": 0,
+    "explanation": "30 = 16 + 8 + 4 + 2.",
+    "source": "دورة 2023 الثانية ص1-2",
+    "enabled": true
+  },
+  {
+    "id": 31,
+    "category": "number_systems",
+    "type": "mcq",
+    "question": "العدد العشري 23 يساوي في النظام الثنائي:",
+    "options": [
+      "10111",
+      "10110",
+      "11101",
+      "11011"
+    ],
+    "correct_index": 0,
+    "explanation": "23 = 16 + 4 + 2 + 1.",
+    "source": "دورة 2023 الثانية ص2",
+    "enabled": true
+  },
+  {
+    "id": 32,
+    "category": "number_systems",
+    "type": "mcq",
+    "question": "العدد الثنائي 1111110 يساوي عشرياً:",
+    "options": [
+      "126",
+      "127",
+      "128",
+      "125"
+    ],
+    "correct_index": 0,
+    "explanation": "64+32+16+8+4+2 = 126.",
+    "source": "دورة 2023 الثانية ص2",
+    "enabled": true
+  },
+  {
+    "id": 33,
+    "category": "number_systems",
+    "type": "mcq",
+    "question": "العدد الثنائي 111101 يساوي عشرياً:",
+    "options": [
+      "61",
+      "63",
+      "65",
+      "59"
+    ],
+    "correct_index": 0,
+    "explanation": "32+16+8+4+1 = 61.",
+    "source": "دورات مدخل إلى الحاسوب ص3",
+    "enabled": true
+  },
+  {
+    "id": 34,
+    "category": "number_systems",
+    "type": "mcq",
+    "question": "العدد الثنائي 1000110 يساوي عشرياً:",
+    "options": [
+      "70",
+      "38",
+      "49",
+      "64"
+    ],
+    "correct_index": 0,
+    "explanation": "64+4+2 = 70.",
+    "source": "حاسوب دورة 25 ص4-5",
+    "enabled": true
+  },
+  {
+    "id": 35,
+    "category": "number_systems",
+    "type": "mcq",
+    "question": "العدد الست عشري 1D يساوي عشرياً:",
+    "options": [
+      "29",
+      "13",
+      "16",
+      "31"
+    ],
+    "correct_index": 0,
+    "explanation": "1×16 + 13 = 29.",
+    "source": "حاسوب دورة 25 ص5",
+    "enabled": true
+  },
+  {
+    "id": 36,
+    "category": "number_systems",
+    "type": "mcq",
+    "question": "العدد الست عشري F5 يساوي ثنائياً:",
+    "options": [
+      "11110101",
+      "10110101",
+      "11100101",
+      "11111101"
+    ],
+    "correct_index": 0,
+    "explanation": "F=1111 و5=0101.",
+    "source": "حاسوب دورة 25 ص5",
+    "enabled": true
+  },
+  {
+    "id": 37,
+    "category": "number_systems",
+    "type": "mcq",
+    "question": "العدد الست عشري FB يساوي ثنائياً:",
+    "options": [
+      "11111011",
+      "11001110",
+      "11111100",
+      "10111011"
+    ],
+    "correct_index": 0,
+    "explanation": "F=1111 وB=1011.",
+    "source": "دورات مدخل إلى الحاسوب ص3",
+    "enabled": true
+  },
+  {
+    "id": 38,
+    "category": "number_systems",
+    "type": "mcq",
+    "question": "العدد الثنائي 1111011010110001 يساوي ست عشرياً:",
+    "options": [
+      "F6B1",
+      "F7D1",
+      "E7BD",
+      "F6A1"
+    ],
+    "correct_index": 0,
+    "explanation": "التجميع: 1111 0110 1011 0001 = F6B1.",
+    "source": "دورات مدخل إلى الحاسوب ص3",
+    "enabled": true
+  },
+  {
+    "id": 39,
+    "category": "number_systems",
+    "type": "mcq",
+    "question": "العدد الثنائي 11111001011000 يساوي ست عشرياً:",
+    "options": [
+      "3E58",
+      "95D2",
+      "2D58",
+      "3F58"
+    ],
+    "correct_index": 0,
+    "explanation": "بعد إضافة أصفار يساراً: 0011 1110 0101 1000 = 3E58.",
+    "source": "دورات مدخل إلى الحاسوب ص4",
+    "enabled": true
+  },
+  {
+    "id": 40,
+    "category": "number_systems",
+    "type": "mcq",
+    "question": "في النظام الست عشري، الرمز A يساوي عشرياً:",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "15"
+    ],
+    "correct_index": 0,
+    "explanation": "A=10 وB=11 ... F=15.",
+    "source": "نظام العد الست عشري",
+    "enabled": true
+  },
+  {
+    "id": 41,
+    "category": "number_systems",
+    "type": "mcq",
+    "question": "كل رقم ست عشري يقابله في الثنائي:",
+    "options": [
+      "4 بتات",
+      "2 بت",
+      "8 بتات",
+      "16 بتاً"
+    ],
+    "correct_index": 0,
+    "explanation": "لأن 16 = 2^4.",
+    "source": "نظام العد الست عشري",
+    "enabled": true
+  },
+  {
+    "id": 42,
+    "category": "number_systems",
+    "type": "mcq",
+    "question": "أساس النظام الثنائي هو:",
+    "options": [
+      "2",
+      "8",
+      "10",
+      "16"
+    ],
+    "correct_index": 0,
+    "explanation": "يستخدم الرقمين 0 و1.",
+    "source": "نظم عد ثنائي وعشري",
+    "enabled": true
+  },
+  {
+    "id": 43,
+    "category": "number_systems",
+    "type": "mcq",
+    "question": "أساس النظام العشري هو:",
+    "options": [
+      "10",
+      "2",
+      "8",
+      "16"
+    ],
+    "correct_index": 0,
+    "explanation": "يستخدم الأرقام من 0 إلى 9.",
+    "source": "نظم عد ثنائي وعشري",
+    "enabled": true
+  },
+  {
+    "id": 44,
+    "category": "number_systems",
+    "type": "mcq",
+    "question": "أساس النظام الست عشري هو:",
+    "options": [
+      "16",
+      "10",
+      "2",
+      "8"
+    ],
+    "correct_index": 0,
+    "explanation": "يستخدم 0-9 وA-F.",
+    "source": "نظام العد الست عشري",
+    "enabled": true
+  },
+  {
+    "id": 45,
+    "category": "number_systems",
+    "type": "true_false",
+    "question": "يجب تمثيل كل خانة ست عشرية بأربع خانات ثنائية عند التحويل إلى الثنائي.",
+    "options": [
+      "صح",
+      "خطأ"
+    ],
+    "correct_index": 0,
+    "explanation": "حتى إن كانت القيمة تحتاج بتات أقل، تُضاف أصفار إلى اليسار.",
+    "source": "حاسوب دورة 25 ص5",
+    "enabled": true
+  },
+  {
+    "id": 46,
+    "category": "number_systems",
+    "type": "true_false",
+    "question": "العدد الثنائي 1010 يساوي العدد العشري 10.",
+    "options": [
+      "صح",
+      "خطأ"
+    ],
+    "correct_index": 0,
+    "explanation": "8+2=10.",
+    "source": "نظم عد ثنائي وعشري",
+    "enabled": true
+  },
+  {
+    "id": 47,
+    "category": "number_systems",
+    "type": "true_false",
+    "question": "الرمز F في النظام الست عشري يساوي 14 عشرياً.",
+    "options": [
+      "صح",
+      "خطأ"
+    ],
+    "correct_index": 1,
+    "explanation": "F يساوي 15، أما E فيساوي 14.",
+    "source": "نظام العد الست عشري",
+    "enabled": true
+  },
+  {
+    "id": 48,
+    "category": "number_systems",
+    "type": "true_false",
+    "question": "يمكن استخدام الرقم 2 داخل عدد مكتوب بالنظام الثنائي.",
+    "options": [
+      "صح",
+      "خطأ"
+    ],
+    "correct_index": 1,
+    "explanation": "النظام الثنائي يستخدم 0 و1 فقط.",
+    "source": "نظم عد ثنائي وعشري",
+    "enabled": true
+  },
+  {
+    "id": 49,
+    "category": "algorithms",
+    "type": "mcq",
+    "question": "الشكل البيضوي في مخطط التدفق يدل عادةً على:",
+    "options": [
+      "البداية أو النهاية",
+      "إدخال أو إخراج",
+      "عملية حسابية",
+      "شرط"
+    ],
+    "correct_index": 0,
+    "explanation": "الرمز الطرفي يمثل Start/End.",
+    "source": "الخوارزميات ص1",
+    "enabled": true
+  },
+  {
+    "id": 50,
+    "category": "algorithms",
+    "type": "mcq",
+    "question": "متوازي الأضلاع في مخطط التدفق يدل على:",
+    "options": [
+      "إدخال أو إخراج",
+      "عملية حسابية",
+      "بداية فقط",
+      "شرط"
+    ],
+    "correct_index": 0,
+    "explanation": "يستخدم لعمليات Input/Output.",
+    "source": "الخوارزميات ص1",
+    "enabled": true
+  },
+  {
+    "id": 51,
+    "category": "algorithms",
+    "type": "mcq",
+    "question": "المستطيل في مخطط التدفق يدل على:",
+    "options": [
+      "عملية معالجة أو حساب",
+      "شرط",
+      "بداية ونهاية",
+      "اتصال شبكة"
+    ],
+    "correct_index": 0,
+    "explanation": "يمثل التعليمات والعمليات.",
+    "source": "الخوارزميات ص1",
+    "enabled": true
+  },
+  {
+    "id": 52,
+    "category": "algorithms",
+    "type": "mcq",
+    "question": "المعين في مخطط التدفق يدل على:",
+    "options": [
+      "شرط واتخاذ قرار",
+      "إدخال بيانات",
+      "طباعة فقط",
+      "نهاية البرنامج"
+    ],
+    "correct_index": 0,
+    "explanation": "يخرج منه عادة مساران نعم/لا.",
+    "source": "الخوارزميات ص1",
+    "enabled": true
+  },
+  {
+    "id": 53,
+    "category": "algorithms",
+    "type": "mcq",
+    "question": "من خصائص الخوارزمية الجيدة:",
+    "options": [
+      "أن تكون محددة ومنتهية وفعالة",
+      "أن تكون بلا نهاية دائماً",
+      "أن تكون غامضة",
+      "ألا تعطي نتائج"
+    ],
+    "correct_index": 0,
+    "explanation": "الخوارزمية يجب أن تكون واضحة ومنتهية وقابلة للتنفيذ.",
+    "source": "مهارات الحاسوب",
+    "enabled": true
+  },
+  {
+    "id": 54,
+    "category": "algorithms",
+    "type": "mcq",
+    "question": "البرنامج المكتوب بلغة برمجة عالية المستوى يسمى:",
+    "options": [
+      "البرنامج المصدري",
+      "البرنامج الهدف",
+      "لغة الآلة",
+      "ملف النظام"
+    ],
+    "correct_index": 0,
+    "explanation": "Source Program هو ما يكتبه المبرمج.",
+    "source": "حاسوب دورة 25 ص11",
+    "enabled": true
+  },
+  {
+    "id": 55,
+    "category": "algorithms",
+    "type": "mcq",
+    "question": "البرنامج بعد تحويله إلى لغة الآلة يسمى:",
+    "options": [
+      "البرنامج الهدف",
+      "البرنامج المصدري",
+      "الخوارزمية",
+      "نظام التشغيل"
+    ],
+    "correct_index": 0,
+    "explanation": "Object/Target program هو الناتج المترجم.",
+    "source": "حاسوب دورة 25 ص10-11",
+    "enabled": true
+  },
+  {
+    "id": 56,
+    "category": "algorithms",
+    "type": "mcq",
+    "question": "أخطاء قواعد اللغة Syntax Errors:",
+    "options": [
+      "يكتشفها المترجم ويعرض رسالة خطأ",
+      "لا يمكن اكتشافها",
+      "لا تؤثر في التنفيذ",
+      "هي أخطاء أجهزة فقط"
+    ],
+    "correct_index": 0,
+    "explanation": "تُكتشف عند ترجمة أو تفسير البرنامج.",
+    "source": "حاسوب دورة 25 ص2",
+    "enabled": true
+  },
+  {
+    "id": 57,
+    "category": "algorithms",
+    "type": "mcq",
+    "question": "المفسر Interpreter يقوم عادةً بـ:",
+    "options": [
+      "ترجمة وتنفيذ التعليمة عند كل تشغيل",
+      "إنشاء القرص الصلب",
+      "تحويل الصور إلى نصوص",
+      "إدارة الطابعة"
+    ],
+    "correct_index": 0,
+    "explanation": "يترجم التعليمات أثناء التنفيذ، وغالباً سطراً بسطر.",
+    "source": "حاسوب دورة 25 ص11",
+    "enabled": true
+  },
+  {
+    "id": 58,
+    "category": "algorithms",
+    "type": "mcq",
+    "question": "في QBasic، أمر تنفيذ شرط محدد هو:",
+    "options": [
+      "IF...THEN",
+      "PRINT فقط",
+      "FOR...NEXT فقط",
+      "END فقط"
+    ],
+    "correct_index": 0,
+    "explanation": "IF...THEN يستخدم لاتخاذ القرار.",
+    "source": "دورات مدخل إلى الحاسوب ص10",
+    "enabled": true
+  },
+  {
+    "id": 59,
+    "category": "algorithms",
+    "type": "mcq",
+    "question": "في QBasic، الحلقة المناسبة للتكرار بعدد معروف هي:",
+    "options": [
+      "FOR...NEXT",
+      "IF...THEN",
+      "PRINT",
+      "INPUT فقط"
+    ],
+    "correct_index": 0,
+    "explanation": "FOR...NEXT تكرر مجموعة تعليمات بعدد محدد.",
+    "source": "مهارات الحاسوب",
+    "enabled": true
+  },
+  {
+    "id": 60,
+    "category": "algorithms",
+    "type": "mcq",
+    "question": "نتيجة تنفيذ SUM في البرنامج: For I=2 To 10 Step 2 ثم SUM=SUM+I هي:",
+    "options": [
+      "30",
+      "20",
+      "10",
+      "25"
+    ],
+    "correct_index": 0,
+    "explanation": "2+4+6+8+10=30.",
+    "source": "دورات مدخل إلى الحاسوب ص12",
+    "enabled": true
+  },
+  {
+    "id": 61,
+    "category": "algorithms",
+    "type": "mcq",
+    "question": "أي ترتيب صحيح لأولوية العمليات الحسابية؟",
+    "options": [
+      "الأقواس ثم الأس ثم الضرب/القسمة ثم الجمع/الطرح",
+      "الجمع ثم الطرح ثم الأقواس",
+      "الضرب ثم الأقواس ثم الأس",
+      "لا توجد أولوية"
+    ],
+    "correct_index": 0,
+    "explanation": "هذه هي الأولوية القياسية.",
+    "source": "أهم الأفكار الامتحانية",
+    "enabled": true
+  },
+  {
+    "id": 62,
+    "category": "algorithms",
+    "type": "mcq",
+    "question": "العمليات المنطقية الأساسية هي:",
+    "options": [
+      "NOT وAND وOR",
+      "SUM وMIN وMAX",
+      "COPY وPASTE وCUT",
+      "INPUT وPRINT فقط"
+    ],
+    "correct_index": 0,
+    "explanation": "تستخدم للتعامل مع القيم المنطقية.",
+    "source": "حاسوب دورة 25 ص9",
+    "enabled": true
+  },
+  {
+    "id": 63,
+    "category": "algorithms",
+    "type": "mcq",
+    "question": "في العبارة LET X=7 ثم Y=2 ثم Z=X/Y، قيمة Z هي:",
+    "options": [
+      "3.5",
+      "3",
+      "9",
+      "14"
+    ],
+    "correct_index": 0,
+    "explanation": "7 ÷ 2 = 3.5 إذا استُخدم نوع عددي يسمح بالكسور.",
+    "source": "حاسوب دورة 25 ص11",
+    "enabled": true
+  },
+  {
+    "id": 64,
+    "category": "algorithms",
+    "type": "true_false",
+    "question": "يجب أن تنتهي الخوارزمية بعد عدد محدود من الخطوات.",
+    "options": [
+      "صح",
+      "خطأ"
+    ],
+    "correct_index": 0,
+    "explanation": "هذه خاصية الانتهاء.",
+    "source": "مهارات الحاسوب",
+    "enabled": true
+  },
+  {
+    "id": 65,
+    "category": "algorithms",
+    "type": "true_false",
+    "question": "المعين في مخطط التدفق يُستخدم لتمثيل عملية إدخال فقط.",
+    "options": [
+      "صح",
+      "خطأ"
+    ],
+    "correct_index": 1,
+    "explanation": "المعين يمثل شرطاً أو قراراً.",
+    "source": "الخوارزميات ص1",
+    "enabled": true
+  },
+  {
+    "id": 66,
+    "category": "algorithms",
+    "type": "true_false",
+    "question": "البرنامج المصدري هو البرنامج الذي يكتبه المبرمج بلغة عالية المستوى.",
+    "options": [
+      "صح",
+      "خطأ"
+    ],
+    "correct_index": 0,
+    "explanation": "ثم يُترجم إلى برنامج هدف.",
+    "source": "حاسوب دورة 25 ص11",
+    "enabled": true
+  },
+  {
+    "id": 67,
+    "category": "algorithms",
+    "type": "true_false",
+    "question": "أخطاء Syntax لا يستطيع الحاسوب اكتشافها.",
+    "options": [
+      "صح",
+      "خطأ"
+    ],
+    "correct_index": 1,
+    "explanation": "المترجم أو المفسر يكتشفها عادةً.",
+    "source": "حاسوب دورة 25 ص2",
+    "enabled": true
+  },
+  {
+    "id": 68,
+    "category": "algorithms",
+    "type": "true_false",
+    "question": "عملية الضرب لها أولوية أعلى من عملية الجمع.",
+    "options": [
+      "صح",
+      "خطأ"
+    ],
+    "correct_index": 0,
+    "explanation": "ما لم تغيّر الأقواس ترتيب التنفيذ.",
+    "source": "أهم الأفكار الامتحانية",
+    "enabled": true
+  },
+  {
+    "id": 69,
+    "category": "networks",
+    "type": "mcq",
+    "question": "في الشبكة الحلقية يتصل كل جهاز عادةً بـ:",
+    "options": [
+      "جهازين مجاورين ضمن الحلقة",
+      "الخادم فقط",
+      "الطابعة فقط",
+      "لا يتصل بأي جهاز"
+    ],
+    "correct_index": 0,
+    "explanation": "تتشكل حلقة مغلقة تنتقل عبرها البيانات.",
+    "source": "دورة 2023 الثانية ص1",
+    "enabled": true
+  },
+  {
+    "id": 70,
+    "category": "networks",
+    "type": "mcq",
+    "question": "الحاسوب الذي يتيح موارده وبياناته لبقية أجهزة الشبكة يسمى:",
+    "options": [
+      "الخادم",
+      "العميل",
+      "المتصفح",
+      "المودم"
+    ],
+    "correct_index": 0,
+    "explanation": "Server يقدم الخدمات والموارد.",
+    "source": "دورة 2023 الثانية ص1",
+    "enabled": true
+  },
+  {
+    "id": 71,
+    "category": "networks",
+    "type": "mcq",
+    "question": "الحاسوب الذي يستفيد من خدمات الخادم يسمى:",
+    "options": [
+      "العميل",
+      "الخادم",
+      "الموجّه",
+      "المبدّل"
+    ],
+    "correct_index": 0,
+    "explanation": "Client يطلب الخدمات من الخادم.",
+    "source": "دورة 2023 الثانية ص1",
+    "enabled": true
+  },
+  {
+    "id": 72,
+    "category": "networks",
+    "type": "mcq",
+    "question": "الشبكة التي تتكون من حاسوب مركزي تتصل به المحطات تسمى:",
+    "options": [
+      "الشبكة النجمية",
+      "الشبكة الحلقية",
+      "الشبكة الخطية فقط",
+      "الشبكة المتداخلة"
+    ],
+    "correct_index": 0,
+    "explanation": "الخادم/المركز في منتصف الاتصالات.",
+    "source": "حاسوب دورة 25 ص10",
+    "enabled": true
+  },
+  {
+    "id": 73,
+    "category": "networks",
+    "type": "mcq",
+    "question": "تعطل الجهاز المركزي في الشبكة النجمية يؤدي غالباً إلى:",
+    "options": [
+      "توقف الشبكة",
+      "زيادة سرعتها",
+      "تحولها إلى حلقية",
+      "عدم حدوث أي أثر"
+    ],
+    "correct_index": 0,
+    "explanation": "لأن الاتصالات تمر عبر المركز.",
+    "source": "دورة 2023 الثانية ص11",
+    "enabled": true
+  },
+  {
+    "id": 74,
+    "category": "networks",
+    "type": "mcq",
+    "question": "تصنيف الشبكات حسب الانتشار الجغرافي يتضمن:",
+    "options": [
+      "LAN وMAN وWAN",
+      "Ring وStar فقط",
+      "Client وServer فقط",
+      "Input وOutput"
+    ],
+    "correct_index": 0,
+    "explanation": "محلية وإقليمية/مدينية وواسعة.",
+    "source": "دورة 2023 الثانية ص11",
+    "enabled": true
+  },
+  {
+    "id": 75,
+    "category": "networks",
+    "type": "mcq",
+    "question": "البرنامج المستخدم لاستدعاء صفحات الويب والتنقل بينها هو:",
+    "options": [
+      "المتصفح",
+      "المترجم",
+      "نظام التشغيل",
+      "برنامج الضغط"
+    ],
+    "correct_index": 0,
+    "explanation": "مثل Chrome وFirefox.",
+    "source": "حاسوب دورة 25 ص9",
+    "enabled": true
+  },
+  {
+    "id": 76,
+    "category": "networks",
+    "type": "mcq",
+    "question": "أيّ مما يلي يمثل عنوان بريد إلكتروني؟",
+    "options": [
+      "radwan@gmail.com",
+      "www.google.com",
+      "Firefox",
+      "C:\\Windows"
+    ],
+    "correct_index": 0,
+    "explanation": "يتكون عادةً من اسم مستخدم ورمز @ ونطاق.",
+    "source": "دورات مدخل إلى الحاسوب ص7",
+    "enabled": true
+  },
+  {
+    "id": 77,
+    "category": "networks",
+    "type": "mcq",
+    "question": "الحاسوب المتصل بالشبكة مباشرة ويتيح الوصول إليه يسمى:",
+    "options": [
+      "Host Computer",
+      "Printer",
+      "Scanner",
+      "Compiler"
+    ],
+    "correct_index": 0,
+    "explanation": "المضيف جهاز متصل بالشبكة ويمكن الوصول إلى موارده وفق الصلاحيات.",
+    "source": "حاسوب دورة 25 ص11",
+    "enabled": true
+  },
+  {
+    "id": 78,
+    "category": "networks",
+    "type": "mcq",
+    "question": "من وسائط الاتصال الشبكي:",
+    "options": [
+      "الألياف الضوئية",
+      "الكابلات المحورية",
+      "الأقمار الصناعية",
+      "جميع ما سبق"
+    ],
+    "correct_index": 3,
+    "explanation": "كلها تستخدم لنقل البيانات.",
+    "source": "حاسوب دورة 25 ص12",
+    "enabled": true
+  },
+  {
+    "id": 79,
+    "category": "networks",
+    "type": "mcq",
+    "question": "معدل نقل البيانات يعني:",
+    "options": [
+      "عدد البتات المنقولة في الثانية",
+      "حجم الشاشة",
+      "عدد صفحات المستند",
+      "سرعة الطابعة فقط"
+    ],
+    "correct_index": 0,
+    "explanation": "يقاس غالباً بالبت في الثانية ومضاعفاته.",
+    "source": "حاسوب دورة 25 ص2",
+    "enabled": true
+  },
+  {
+    "id": 80,
+    "category": "networks",
+    "type": "mcq",
+    "question": "البروتوكول في الشبكات هو:",
+    "options": [
+      "مجموعة قواعد لتنظيم الاتصال",
+      "جهاز إدخال",
+      "نوع ذاكرة",
+      "برنامج رسم"
+    ],
+    "correct_index": 0,
+    "explanation": "يحدد كيفية تبادل البيانات بين الأجهزة.",
+    "source": "مهارات الحاسوب",
+    "enabled": true
+  },
+  {
+    "id": 81,
+    "category": "networks",
+    "type": "mcq",
+    "question": "أيّ مما يلي من إجراءات حماية المعلومات؟",
+    "options": [
+      "كلمات مرور قوية ونسخ احتياطي",
+      "مشاركة كلمة المرور مع الجميع",
+      "تعطيل التحديثات دائماً",
+      "فتح كل المرفقات"
+    ],
+    "correct_index": 0,
+    "explanation": "الحماية تعتمد على التحكم بالوصول والتحديث والنسخ الاحتياطي.",
+    "source": "مهارات الحاسوب",
+    "enabled": true
+  },
+  {
+    "id": 82,
+    "category": "networks",
+    "type": "true_false",
+    "question": "الحاسوب العميل يقدّم الخدمات الرئيسية لجميع أجهزة الشبكة.",
+    "options": [
+      "صح",
+      "خطأ"
+    ],
+    "correct_index": 1,
+    "explanation": "هذه وظيفة الخادم غالباً.",
+    "source": "دورة 2023 الثانية ص1",
+    "enabled": true
+  },
+  {
+    "id": 83,
+    "category": "networks",
+    "type": "true_false",
+    "question": "المتصفح هو البرنامج المسؤول عن عرض صفحات مواقع الإنترنت.",
+    "options": [
+      "صح",
+      "خطأ"
+    ],
+    "correct_index": 0,
+    "explanation": "مثل Chrome أو Firefox.",
+    "source": "حاسوب دورة 25 ص9",
+    "enabled": true
+  },
+  {
+    "id": 84,
+    "category": "networks",
+    "type": "true_false",
+    "question": "الشبكة الواسعة WAN تغطي مساحة جغرافية أكبر من LAN.",
+    "options": [
+      "صح",
+      "خطأ"
+    ],
+    "correct_index": 0,
+    "explanation": "WAN قد تربط مدناً أو دولاً.",
+    "source": "مهارات الحاسوب",
+    "enabled": true
+  },
+  {
+    "id": 85,
+    "category": "networks",
+    "type": "true_false",
+    "question": "مشاركة كلمة المرور مع الآخرين إجراء أمني جيد.",
+    "options": [
+      "صح",
+      "خطأ"
+    ],
+    "correct_index": 1,
+    "explanation": "يجب الحفاظ على سرية كلمات المرور.",
+    "source": "مهارات الحاسوب",
+    "enabled": true
+  },
+  {
+    "id": 86,
+    "category": "word",
+    "type": "mcq",
+    "question": "برنامج Microsoft Word هو:",
+    "options": [
+      "برنامج لمعالجة النصوص",
+      "برنامج جداول إلكترونية",
+      "نظام تشغيل",
+      "متصفح ويب"
+    ],
+    "correct_index": 0,
+    "explanation": "يُستخدم لإنشاء المستندات وتنسيقها.",
+    "source": "اتمتة Word ص1",
+    "enabled": true
+  },
+  {
+    "id": 87,
+    "category": "word",
+    "type": "mcq",
+    "question": "الامتداد الافتراضي الحديث لمستند Word هو:",
+    "options": [
+      ".docx",
+      ".xlsx",
+      ".pptx",
+      ".exe"
+    ],
+    "correct_index": 0,
+    "explanation": "DOCX هو امتداد مستندات Word الحديثة.",
+    "source": "اختصارات Word ص1",
+    "enabled": true
+  },
+  {
+    "id": 88,
+    "category": "word",
+    "type": "mcq",
+    "question": "اختصار إنشاء مستند جديد في Word هو:",
+    "options": [
+      "Ctrl+N",
+      "Ctrl+S",
+      "Ctrl+O",
+      "Ctrl+P"
+    ],
+    "correct_index": 0,
+    "explanation": "N من New.",
+    "source": "اختصارات Word ص1",
+    "enabled": true
+  },
+  {
+    "id": 89,
+    "category": "word",
+    "type": "mcq",
+    "question": "اختصار حفظ المستند هو:",
+    "options": [
+      "Ctrl+S",
+      "Ctrl+N",
+      "Ctrl+F",
+      "Ctrl+H"
+    ],
+    "correct_index": 0,
+    "explanation": "S من Save.",
+    "source": "اختصارات Word ص1",
+    "enabled": true
+  },
+  {
+    "id": 90,
+    "category": "word",
+    "type": "mcq",
+    "question": "اختصار فتح مستند محفوظ هو:",
+    "options": [
+      "Ctrl+O",
+      "Ctrl+P",
+      "Ctrl+X",
+      "Ctrl+Z"
+    ],
+    "correct_index": 0,
+    "explanation": "O من Open.",
+    "source": "اختصارات Word ص1",
+    "enabled": true
+  },
+  {
+    "id": 91,
+    "category": "word",
+    "type": "mcq",
+    "question": "اختصار طباعة المستند هو:",
+    "options": [
+      "Ctrl+P",
+      "Ctrl+O",
+      "Ctrl+N",
+      "Ctrl+A"
+    ],
+    "correct_index": 0,
+    "explanation": "P من Print.",
+    "source": "اختصارات Word ص1",
+    "enabled": true
+  },
+  {
+    "id": 92,
+    "category": "word",
+    "type": "mcq",
+    "question": "اختصار تحديد النص كله هو:",
+    "options": [
+      "Ctrl+A",
+      "Ctrl+C",
+      "Ctrl+V",
+      "Ctrl+Y"
+    ],
+    "correct_index": 0,
+    "explanation": "A من All.",
+    "source": "اختصارات Word",
+    "enabled": true
+  },
+  {
+    "id": 93,
+    "category": "word",
+    "type": "mcq",
+    "question": "اختصار نسخ النص المحدد هو:",
+    "options": [
+      "Ctrl+C",
+      "Ctrl+X",
+      "Ctrl+V",
+      "Ctrl+Z"
+    ],
+    "correct_index": 0,
+    "explanation": "C من Copy.",
+    "source": "اختصارات Word",
+    "enabled": true
+  },
+  {
+    "id": 94,
+    "category": "word",
+    "type": "mcq",
+    "question": "اختصار قص النص المحدد هو:",
+    "options": [
+      "Ctrl+X",
+      "Ctrl+C",
+      "Ctrl+V",
+      "Ctrl+S"
+    ],
+    "correct_index": 0,
+    "explanation": "Ctrl+X ينقل النص إلى الحافظة مع حذفه من مكانه.",
+    "source": "اختصارات Word",
+    "enabled": true
+  },
+  {
+    "id": 95,
+    "category": "word",
+    "type": "mcq",
+    "question": "اختصار لصق محتوى الحافظة هو:",
+    "options": [
+      "Ctrl+V",
+      "Ctrl+C",
+      "Ctrl+F",
+      "Ctrl+P"
+    ],
+    "correct_index": 0,
+    "explanation": "Ctrl+V للصق.",
+    "source": "اختصارات Word",
+    "enabled": true
+  },
+  {
+    "id": 96,
+    "category": "word",
+    "type": "mcq",
+    "question": "اختصار التراجع عن آخر إجراء هو:",
+    "options": [
+      "Ctrl+Z",
+      "Ctrl+Y",
+      "Ctrl+H",
+      "Ctrl+N"
+    ],
+    "correct_index": 0,
+    "explanation": "Ctrl+Z = Undo.",
+    "source": "اختصارات Word",
+    "enabled": true
+  },
+  {
+    "id": 97,
+    "category": "word",
+    "type": "mcq",
+    "question": "اختصار إعادة الإجراء بعد التراجع هو:",
+    "options": [
+      "Ctrl+Y",
+      "Ctrl+Z",
+      "Ctrl+O",
+      "Ctrl+P"
+    ],
+    "correct_index": 0,
+    "explanation": "Ctrl+Y = Redo.",
+    "source": "اختصارات Word",
+    "enabled": true
+  },
+  {
+    "id": 98,
+    "category": "word",
+    "type": "mcq",
+    "question": "اختصار البحث في المستند هو:",
+    "options": [
+      "Ctrl+F",
+      "Ctrl+H",
+      "Ctrl+G",
+      "Ctrl+S"
+    ],
+    "correct_index": 0,
+    "explanation": "F من Find.",
+    "source": "مهارات الحاسوب",
+    "enabled": true
+  },
+  {
+    "id": 99,
+    "category": "word",
+    "type": "mcq",
+    "question": "اختصار البحث والاستبدال هو:",
+    "options": [
+      "Ctrl+H",
+      "Ctrl+F",
+      "Ctrl+P",
+      "Ctrl+L"
+    ],
+    "correct_index": 0,
+    "explanation": "يفتح نافذة Replace.",
+    "source": "مهارات الحاسوب",
+    "enabled": true
+  },
+  {
+    "id": 100,
+    "category": "word",
+    "type": "mcq",
+    "question": "شريط العنوان في Word يعرض عادةً:",
+    "options": [
+      "اسم المستند والبرنامج",
+      "محتوى الحافظة",
+      "حجم القرص الصلب",
+      "عنوان البريد الإلكتروني"
+    ],
+    "correct_index": 0,
+    "explanation": "Title Bar يعرض اسم الملف والتطبيق.",
+    "source": "اتمتة Word ص1",
+    "enabled": true
+  },
+  {
+    "id": 101,
+    "category": "word",
+    "type": "mcq",
+    "question": "يمكن فتح تبويب من الشريط باستخدام لوحة المفاتيح عبر:",
+    "options": [
+      "الضغط على Alt ثم مفتاح التبويب",
+      "Ctrl+P فقط",
+      "Shift+Delete",
+      "Esc فقط"
+    ],
+    "correct_index": 0,
+    "explanation": "Alt يظهر تلميحات المفاتيح للتبويبات.",
+    "source": "اتمتة Word ص1",
+    "enabled": true
+  },
+  {
+    "id": 102,
+    "category": "word",
+    "type": "mcq",
+    "question": "اختصار إغلاق المستند الحالي مع إبقاء Word مفتوحاً هو غالباً:",
+    "options": [
+      "Ctrl+F4",
+      "Alt+F4",
+      "Ctrl+N",
+      "Ctrl+S"
+    ],
+    "correct_index": 0,
+    "explanation": "Ctrl+F4 يغلق نافذة المستند الحالية.",
+    "source": "اختصارات Word ص1",
+    "enabled": true
+  },
+  {
+    "id": 103,
+    "category": "word",
+    "type": "mcq",
+    "question": "اختصار إغلاق برنامج Word كاملاً هو:",
+    "options": [
+      "Alt+F4",
+      "Ctrl+F4",
+      "Ctrl+O",
+      "Ctrl+A"
+    ],
+    "correct_index": 0,
+    "explanation": "Alt+F4 يغلق التطبيق النشط.",
+    "source": "اختصارات Word ص1",
+    "enabled": true
+  },
+  {
+    "id": 104,
+    "category": "word",
+    "type": "true_false",
+    "question": "يمكن استخدام Word لإدراج الجداول والصور والمعادلات.",
+    "options": [
+      "صح",
+      "خطأ"
+    ],
+    "correct_index": 0,
+    "explanation": "هذه وظائف أساسية في Word.",
+    "source": "مهارات الحاسوب",
+    "enabled": true
+  },
+  {
+    "id": 105,
+    "category": "word",
+    "type": "true_false",
+    "question": "Ctrl+S يُستخدم لفتح مستند.",
+    "options": [
+      "صح",
+      "خطأ"
+    ],
+    "correct_index": 1,
+    "explanation": "Ctrl+S للحفظ، وCtrl+O للفتح.",
+    "source": "اختصارات Word",
+    "enabled": true
+  },
+  {
+    "id": 106,
+    "category": "word",
+    "type": "true_false",
+    "question": "الامتداد .xlsx خاص بملفات Word.",
+    "options": [
+      "صح",
+      "خطأ"
+    ],
+    "correct_index": 1,
+    "explanation": "XLSX خاص بملفات Excel.",
+    "source": "تتمة حاسوب عملي ص1",
+    "enabled": true
+  },
+  {
+    "id": 107,
+    "category": "excel",
+    "type": "mcq",
+    "question": "برنامج Microsoft Excel هو:",
+    "options": [
+      "برنامج جداول إلكترونية",
+      "برنامج معالجة نصوص فقط",
+      "نظام تشغيل",
+      "متصفح إنترنت"
+    ],
+    "correct_index": 0,
+    "explanation": "يستخدم الجداول والصيغ والدوال وتحليل البيانات.",
+    "source": "إكسل 1 ص1",
+    "enabled": true
+  },
+  {
+    "id": 108,
+    "category": "excel",
+    "type": "mcq",
+    "question": "الامتداد الافتراضي الحديث لملف Excel هو:",
+    "options": [
+      ".xlsx",
+      ".docx",
+      ".pptx",
+      ".txt"
+    ],
+    "correct_index": 0,
+    "explanation": "XLSX هو امتداد مصنف Excel الحديث.",
+    "source": "تتمة حاسوب عملي ص1",
+    "enabled": true
+  },
+  {
+    "id": 109,
+    "category": "excel",
+    "type": "mcq",
+    "question": "نتيجة الدالة =IF(10>4;10;10-4) هي:",
+    "options": [
+      "10",
+      "6",
+      "0",
+      "4"
+    ],
+    "correct_index": 0,
+    "explanation": "الشرط صحيح، فتُعاد القيمة 10.",
+    "source": "دورات مدخل إلى الحاسوب ص5",
+    "enabled": true
+  },
+  {
+    "id": 110,
+    "category": "excel",
+    "type": "mcq",
+    "question": "نتيجة الدالة =SUM(15;15) هي:",
+    "options": [
+      "30",
+      "20",
+      "15",
+      "0"
+    ],
+    "correct_index": 0,
+    "explanation": "SUM تجمع القيم.",
+    "source": "دورات مدخل إلى الحاسوب ص5",
+    "enabled": true
+  },
+  {
+    "id": 111,
+    "category": "excel",
+    "type": "mcq",
+    "question": "نتيجة الدالة =MIN(10;3) هي:",
+    "options": [
+      "3",
+      "10",
+      "13",
+      "0"
+    ],
+    "correct_index": 0,
+    "explanation": "MIN تعيد أصغر قيمة.",
+    "source": "دورات مدخل إلى الحاسوب ص5",
+    "enabled": true
+  },
+  {
+    "id": 112,
+    "category": "excel",
+    "type": "mcq",
+    "question": "نتيجة التعبير =8*3/3+4^2 هي:",
+    "options": [
+      "24",
+      "9",
+      "35",
+      "13.5"
+    ],
+    "correct_index": 0,
+    "explanation": "8×3÷3=8 و4^2=16؛ المجموع 24.",
+    "source": "دورات مدخل إلى الحاسوب ص5",
+    "enabled": true
+  },
+  {
+    "id": 113,
+    "category": "excel",
+    "type": "mcq",
+    "question": "نتيجة الدالة =AVERAGE(5;3) هي:",
+    "options": [
+      "4",
+      "5",
+      "8",
+      "3"
+    ],
+    "correct_index": 0,
+    "explanation": "(5+3)/2 = 4.",
+    "source": "دورات مدخل إلى الحاسوب ص5",
+    "enabled": true
+  },
+  {
+    "id": 114,
+    "category": "excel",
+    "type": "mcq",
+    "question": "الدالة MAX تُستخدم من أجل:",
+    "options": [
+      "إيجاد أكبر قيمة",
+      "إيجاد أصغر قيمة",
+      "جمع القيم",
+      "حساب عدد الخلايا الفارغة"
+    ],
+    "correct_index": 0,
+    "explanation": "MAX تعيد القيمة العظمى.",
+    "source": "دورات مدخل إلى الحاسوب ص5",
+    "enabled": true
+  },
+  {
+    "id": 115,
+    "category": "excel",
+    "type": "mcq",
+    "question": "الدالة COUNT تُستخدم لحساب:",
+    "options": [
+      "عدد الخلايا التي تحتوي أرقاماً",
+      "عدد الخلايا الفارغة فقط",
+      "مجموع القيم",
+      "أكبر قيمة"
+    ],
+    "correct_index": 0,
+    "explanation": "COUNT تعد الخلايا العددية.",
+    "source": "تتمة حاسوب عملي ص2",
+    "enabled": true
+  },
+  {
+    "id": 116,
+    "category": "excel",
+    "type": "mcq",
+    "question": "الدالة COUNTBLANK تُستخدم لحساب:",
+    "options": [
+      "عدد الخلايا الفارغة",
+      "عدد الخلايا الرقمية",
+      "المتوسط",
+      "التاريخ"
+    ],
+    "correct_index": 0,
+    "explanation": "COUNTBLANK تعد الخلايا الخالية.",
+    "source": "تتمة حاسوب عملي ص2",
+    "enabled": true
+  },
+  {
+    "id": 117,
+    "category": "excel",
+    "type": "mcq",
+    "question": "الدالة TODAY() تُرجع:",
+    "options": [
+      "تاريخ اليوم",
+      "الوقت فقط",
+      "أكبر قيمة",
+      "اسم الملف"
+    ],
+    "correct_index": 0,
+    "explanation": "تعطي التاريخ الحالي دون الوقت.",
+    "source": "تتمة حاسوب عملي ص2",
+    "enabled": true
+  },
+  {
+    "id": 118,
+    "category": "excel",
+    "type": "mcq",
+    "question": "الدالة NOW() تُرجع:",
+    "options": [
+      "التاريخ والوقت الحاليين",
+      "التاريخ فقط",
+      "الوقت فقط دائماً دون تاريخ",
+      "عدد الخلايا"
+    ],
+    "correct_index": 0,
+    "explanation": "NOW تتضمن التاريخ والوقت.",
+    "source": "تتمة حاسوب عملي ص2",
+    "enabled": true
+  },
+  {
+    "id": 119,
+    "category": "excel",
+    "type": "mcq",
+    "question": "الدالة MEDIAN تُستخدم لإيجاد:",
+    "options": [
+      "الوسيط",
+      "المتوسط الحسابي",
+      "أكبر قيمة",
+      "عدد الخلايا الفارغة"
+    ],
+    "correct_index": 0,
+    "explanation": "الوسيط هو القيمة الوسطى بعد الترتيب.",
+    "source": "تتمة حاسوب عملي ص2",
+    "enabled": true
+  },
+  {
+    "id": 120,
+    "category": "excel",
+    "type": "mcq",
+    "question": "الرمز $ في مرجع Excel يُستخدم من أجل:",
+    "options": [
+      "تثبيت الصف أو العمود",
+      "حذف الخلية",
+      "جمع الخلايا",
+      "إخفاء الورقة"
+    ],
+    "correct_index": 0,
+    "explanation": "يحوّل الجزء المحدد من المرجع إلى مرجع مطلق.",
+    "source": "حاسوب دورة 25 ص4",
+    "enabled": true
+  },
+  {
+    "id": 121,
+    "category": "excel",
+    "type": "mcq",
+    "question": "أيّ مرجع هو مرجع مطلق بالكامل؟",
+    "options": [
+      "$A$1",
+      "A1",
+      "A$1 فقط",
+      "A1$"
+    ],
+    "correct_index": 0,
+    "explanation": "تم تثبيت العمود A والصف 1.",
+    "source": "أهم الأفكار الامتحانية",
+    "enabled": true
+  },
+  {
+    "id": 122,
+    "category": "excel",
+    "type": "mcq",
+    "question": "أيّ مرجع يثبت الصف فقط؟",
+    "options": [
+      "A$1",
+      "$A1",
+      "$A$1",
+      "A1"
+    ],
+    "correct_index": 0,
+    "explanation": "علامة $ قبل رقم الصف تثبت الصف.",
+    "source": "تتمة حاسوب عملي ص1",
+    "enabled": true
+  },
+  {
+    "id": 123,
+    "category": "excel",
+    "type": "mcq",
+    "question": "أيّ مرجع يثبت العمود فقط؟",
+    "options": [
+      "$A1",
+      "A$1",
+      "$A$1",
+      "A1"
+    ],
+    "correct_index": 0,
+    "explanation": "علامة $ قبل حرف العمود تثبت العمود.",
+    "source": "تتمة حاسوب عملي ص1",
+    "enabled": true
+  },
+  {
+    "id": 124,
+    "category": "excel",
+    "type": "mcq",
+    "question": "يجب أن تبدأ الصيغة في Excel عادةً بالرمز:",
+    "options": [
+      "=",
+      "@",
+      "#",
+      "%"
+    ],
+    "correct_index": 0,
+    "explanation": "علامة = تُعرّف محتوى الخلية كصيغة.",
+    "source": "مهارات الحاسوب",
+    "enabled": true
+  },
+  {
+    "id": 125,
+    "category": "excel",
+    "type": "mcq",
+    "question": "لتحديد خلايا غير متجاورة نستخدم غالباً:",
+    "options": [
+      "Ctrl مع النقر",
+      "Shift فقط",
+      "Alt+F4",
+      "Ctrl+P"
+    ],
+    "correct_index": 0,
+    "explanation": "Ctrl يسمح بإضافة نطاقات منفصلة للتحديد.",
+    "source": "إكسل 2 ص1",
+    "enabled": true
+  },
+  {
+    "id": 126,
+    "category": "excel",
+    "type": "mcq",
+    "question": "لتحديد مجموعة خلايا متجاورة يمكن استخدام:",
+    "options": [
+      "Shift مع النقر بين البداية والنهاية",
+      "Ctrl+P",
+      "Alt+F4",
+      "Esc فقط"
+    ],
+    "correct_index": 0,
+    "explanation": "Shift يحدد النطاق المتصل.",
+    "source": "إكسل 2 ص1",
+    "enabled": true
+  },
+  {
+    "id": 127,
+    "category": "excel",
+    "type": "mcq",
+    "question": "اختصار تحديد جميع خلايا ورقة العمل هو:",
+    "options": [
+      "Ctrl+A",
+      "Ctrl+S",
+      "Ctrl+O",
+      "Ctrl+P"
+    ],
+    "correct_index": 0,
+    "explanation": "Ctrl+A يحدد الكل.",
+    "source": "إكسل 2 ص1",
+    "enabled": true
+  },
+  {
+    "id": 128,
+    "category": "excel",
+    "type": "mcq",
+    "question": "الدالة SUM تُستخدم من أجل:",
+    "options": [
+      "جمع القيم",
+      "حساب الوسيط",
+      "إيجاد أصغر قيمة",
+      "حساب التاريخ"
+    ],
+    "correct_index": 0,
+    "explanation": "SUM هي دالة الجمع.",
+    "source": "تتمة حاسوب عملي ص2",
+    "enabled": true
+  },
+  {
+    "id": 129,
+    "category": "excel",
+    "type": "mcq",
+    "question": "الدالة AVERAGE تُستخدم من أجل:",
+    "options": [
+      "حساب المتوسط الحسابي",
+      "إيجاد أكبر قيمة",
+      "عد الخلايا الفارغة",
+      "إرجاع تاريخ اليوم"
+    ],
+    "correct_index": 0,
+    "explanation": "تجمع القيم وتقسمها على عددها.",
+    "source": "تتمة حاسوب عملي ص2",
+    "enabled": true
+  },
+  {
+    "id": 130,
+    "category": "excel",
+    "type": "true_false",
+    "question": "يمكن نسخ الصيغ في Excel مع تغيّر المراجع النسبية تلقائياً.",
+    "options": [
+      "صح",
+      "خطأ"
+    ],
+    "correct_index": 0,
+    "explanation": "المراجع النسبية تتكيف مع موقع النسخ.",
+    "source": "مهارات الحاسوب",
+    "enabled": true
+  },
+  {
+    "id": 131,
+    "category": "excel",
+    "type": "true_false",
+    "question": "المرجع $A$1 مرجع نسبي بالكامل.",
+    "options": [
+      "صح",
+      "خطأ"
+    ],
+    "correct_index": 1,
+    "explanation": "هو مرجع مطلق بالكامل.",
+    "source": "أهم الأفكار الامتحانية",
+    "enabled": true
+  },
+  {
+    "id": 132,
+    "category": "excel",
+    "type": "true_false",
+    "question": "الدالة MIN تعيد أكبر قيمة في النطاق.",
+    "options": [
+      "صح",
+      "خطأ"
+    ],
+    "correct_index": 1,
+    "explanation": "MIN تعيد أصغر قيمة، وMAX تعيد أكبر قيمة.",
+    "source": "دوااال الإكسل",
+    "enabled": true
+  },
+  {
+    "id": 133,
+    "category": "excel",
+    "type": "true_false",
+    "question": "الدالة TODAY() تُرجع تاريخ اليوم.",
+    "options": [
+      "صح",
+      "خطأ"
+    ],
+    "correct_index": 0,
+    "explanation": "ولا تتضمن الوقت عادةً.",
+    "source": "تتمة حاسوب عملي ص2",
+    "enabled": true
+  },
+  {
+    "id": 134,
+    "category": "excel",
+    "type": "true_false",
+    "question": "يمكن استخدام Excel لإنشاء الرسوم البيانية.",
+    "options": [
+      "صح",
+      "خطأ"
+    ],
+    "correct_index": 0,
+    "explanation": "من وظائفه تحليل البيانات وتمثيلها بصرياً.",
+    "source": "إكسل 1 ص1",
+    "enabled": true
+  },
+  {
+    "id": 135,
+    "category": "security",
+    "type": "mcq",
+    "question": "أفضل وصف لكلمة مرور قوية هو:",
+    "options": [
+      "طويلة وفريدة وتضم مزيجاً من المحارف",
+      "اسم المستخدم نفسه",
+      "123456",
+      "كلمة واحدة قصيرة"
+    ],
+    "correct_index": 0,
+    "explanation": "الطول والتفرد والتنوع تزيد مقاومة التخمين.",
+    "source": "مهارات الحاسوب",
+    "enabled": true
+  },
+  {
+    "id": 136,
+    "category": "security",
+    "type": "mcq",
+    "question": "النسخ الاحتياطي يهدف إلى:",
+    "options": [
+      "استعادة البيانات عند الفقد أو التلف",
+      "زيادة سطوع الشاشة",
+      "تسريع الطابعة فقط",
+      "حذف الملفات الأصلية"
+    ],
+    "correct_index": 0,
+    "explanation": "يوفر نسخة يمكن الرجوع إليها.",
+    "source": "مهارات الحاسوب",
+    "enabled": true
+  },
+  {
+    "id": 137,
+    "category": "security",
+    "type": "mcq",
+    "question": "البرمجيات الخبيثة قد تصل عبر:",
+    "options": [
+      "مرفق بريد مجهول",
+      "تحديث رسمي موثوق",
+      "نسخة احتياطية سليمة فقط",
+      "كلمة مرور قوية"
+    ],
+    "correct_index": 0,
+    "explanation": "المرفقات والروابط المجهولة من وسائل الانتشار الشائعة.",
+    "source": "مهارات الحاسوب",
+    "enabled": true
+  },
+  {
+    "id": 138,
+    "category": "security",
+    "type": "mcq",
+    "question": "من الأفضل عند وصول رابط مشبوه:",
+    "options": [
+      "عدم فتحه والتحقق من المرسل",
+      "فتحه فوراً",
+      "إرساله للجميع",
+      "إدخال كلمة المرور فيه"
+    ],
+    "correct_index": 0,
+    "explanation": "التحقق يقلل خطر التصيد.",
+    "source": "مهارات الحاسوب",
+    "enabled": true
+  },
+  {
+    "id": 139,
+    "category": "security",
+    "type": "true_false",
+    "question": "التحديثات الأمنية تساعد على سد الثغرات.",
+    "options": [
+      "صح",
+      "خطأ"
+    ],
+    "correct_index": 0,
+    "explanation": "التحديثات تعالج ثغرات مكتشفة.",
+    "source": "مهارات الحاسوب",
+    "enabled": true
+  },
+  {
+    "id": 140,
+    "category": "security",
+    "type": "true_false",
+    "question": "يُفضّل استخدام كلمة المرور نفسها في كل المواقع.",
+    "options": [
+      "صح",
+      "خطأ"
+    ],
+    "correct_index": 1,
+    "explanation": "إعادة الاستخدام تجعل اختراق حساب واحد خطراً على بقية الحسابات.",
+    "source": "مهارات الحاسوب",
+    "enabled": true
+  }
+]
