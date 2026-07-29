@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: computer-quiz-bot
+    name: arabic-study-bot
     runtime: python
     plan: free
     autoDeployTrigger: commit
@@ -9,9 +9,11 @@ services:
     envVars:
       - key: BOT_TOKEN
         sync: false
+      - key: ADMIN_IDS
+        sync: false
+      - key: DATABASE_URL
+        sync: false
       - key: WEBHOOK_PATH
         value: telegram-webhook
       - key: PORT
         value: 10000
-      - key: DATABASE_PATH
-        value: /tmp/quiz_bot.sqlite3
